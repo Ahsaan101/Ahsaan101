@@ -15,7 +15,6 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 
 ## 🧠 My GitHub Stats
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsaan101show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan101&layout=compact&theme=radical)
 
 ---
