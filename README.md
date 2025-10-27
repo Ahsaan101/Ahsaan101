@@ -26,8 +26,6 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 
 ---
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaan101&layout=compact&theme=radical)
 
 ## 🧠 Languages and Tools
 
@@ -60,9 +58,6 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/> 
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="45" height="45"/> 
 </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="45" height="45"/> 
