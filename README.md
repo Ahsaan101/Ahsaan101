@@ -1,7 +1,7 @@
 # Hi there 👋 I am Ahsan Ullah Jameel
 
 ## About Me
-As a Data Science and Machine Learning enthusiast, I’m passionate about building AI systems that solve real-world problems.  
+As an AI Engineer, I’m passionate about building AI systems that solve real-world problems.  
 I love working on Generative AI, RAG models, and intelligent agents using frameworks like **LangChain, LLAMA Index, and AutoGen**.  
 I’ve built several end-to-end ML and AI solutions — from Recommendation Systems to MultiAgent AI architectures.
 
