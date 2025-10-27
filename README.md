@@ -26,6 +26,9 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 
 ---
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaan101&layout=compact&theme=radical)
+
 ## 🧠 Languages and Tools
 
 <p align="left">
