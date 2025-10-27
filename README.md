@@ -62,6 +62,10 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/> 
 </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/> 
+</a>
+
 
 </p>
 
