@@ -19,9 +19,6 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 
 ---
 
-## 🔥 My GitHub Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsanawan&theme=radical)](https://git.io/streak-stats)
 
 ---
 
