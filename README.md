@@ -11,3 +11,17 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 - 📫 How to reach me: **ahsanawan102@gmail.com**
 - ⚡ Fun fact: I love transforming complex ideas into practical AI solutions!
 
+---
+
+## 🧠 My GitHub Stats
+
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsaan101&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaan101&layout=compact&theme=radical)
+
+---
+
+## 🔥 My GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsaan101&theme=radical)](https://git.io/streak-stats)
+
+---
