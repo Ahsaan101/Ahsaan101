@@ -11,19 +11,3 @@ I’ve built several end-to-end ML and AI solutions — from Recommendation Syst
 - 📫 How to reach me: **ahsanawan102@gmail.com**
 - ⚡ Fun fact: I love transforming complex ideas into practical AI solutions!
 
----
-
-## 🧠 My GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsaan101&layout=compact&theme=radical)
-
----
-
-
----
-
-## 🧩 Most Used Languages
-```text
-Jupyter Notebook   ██████████████████████░░   80%
-Python             ████░░░░░░░░░░░░░░░░░░░   15%
-HTML/CSS/JS        ██░░░░░░░░░░░░░░░░░░░░░   5%
