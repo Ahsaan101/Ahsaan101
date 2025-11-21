@@ -2,7 +2,7 @@
 
 ## About Me
 As an AI Engineer, I’m passionate about building AI systems that solve real-world problems.  
-I love working on Generative AI, RAG models, and intelligent agents using frameworks like **LangChain, LLAMA Index, and AutoGen**.  
+I love working on Generative AI, RAG models, and intelligent agents using frameworks like **LangChain, Langgraph, LLAMA Index, CrewAI, Agno and AutoGen**.  
 I’ve built several end-to-end ML and AI solutions — from Recommendation Systems to MultiAgent AI architectures.
 
 - 🌱 I’m currently exploring **Generative AI and AI Agent architectures**
